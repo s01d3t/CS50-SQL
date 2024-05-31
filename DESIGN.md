@@ -21,7 +21,7 @@ Out of scope are elements like shipping logistics and advanced security measures
 
 This database will support:
 
-* Creation, tracking, and status updates of exchange requests without accessing privacy_sensitive tables directly
+* Creation, tracking, and status updates of exchange requests without accessing privacy sensitive tables directly
 * Views for users to see their own items, available items for exchange, and incoming exchange requests
 
 Note that in this iteration, the system will not support DELETE operations by regular users, as much as password and username change.
