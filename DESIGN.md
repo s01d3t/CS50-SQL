@@ -1,6 +1,6 @@
 # Design Document
 
-By Petr Chuntu
+By /////////
 
 Video overview: <[URL HERE](https://youtu.be/66BzMgtPCTA )>
 
