@@ -1,6 +1,5 @@
 # Design Document
 
-By /////////
 
 Video overview: <[URL HERE](https://youtu.be/66BzMgtPCTA )>
 
